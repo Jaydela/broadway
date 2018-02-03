@@ -5,7 +5,7 @@
 	color:white;
 }
 .backimage {
-background-image:url('Broadway images/the-flatiron-building.png');
+background-image:url('Resources/Broadway%20images/the-flatiron-building.png');
 	
 }
 .headercolor {
@@ -32,6 +32,16 @@ p {
 	font-size:23px;
 	font-weight:bold;
 	color:white;
-	background-image:url('Broadway images/the-flatiron-building.png');
-
+	background-image:url('Resources/Broadway%20images/the-flatiron-building.png');
+}
+.Broadway {
+	font-family:Helvetica;
+	font-size:11px;
+	color:white;
+}
+tr {
+	background-color:dimgray;
+}
+body {
+	text-align:center
 }
